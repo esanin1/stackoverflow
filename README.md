@@ -25,7 +25,7 @@ There is 1 notebook is available here to demonstrate work related to the above q
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/***).
+The main findings of the code can be found at the post available [here](https://medium.com/@esanin_58634/can-money-buy-you-career-satisfaction-803ebbc631d8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
